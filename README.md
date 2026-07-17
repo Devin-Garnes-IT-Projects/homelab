@@ -1,5 +1,3 @@
-# homelab
-Enterprise Infrastructure built with Proxmox
 # Homelab
 
 Enterprise Infrastructure built with Proxmox.
